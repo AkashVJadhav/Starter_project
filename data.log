@@ -1,0 +1,24 @@
+2021-12-30-INFO -Data.main(Data.java:76)-[main] Data  - Successfully downloaded the repository!
+2021-12-30-INFO -Data.main(Data.java:140)-[main] Data  - Create table employee (Id int, FirstName varchar(50), LastName Varchar(50));
+2021-12-30-ERROR-Data.main(Data.java:151)-[main] Data  - Table 'employee' already exists
+2021-12-30-INFO -Data.main(Data.java:76)-[main] Data  - Successfully downloaded the repository!
+2021-12-30-INFO -Data.main(Data.java:137)-[main] Data  - 20211201_DDL.sqlExecution started.
+2021-12-30-INFO -Data.main(Data.java:141)-[main] Data  - Create table employee (Id int, FirstName varchar(50), LastName Varchar(50));
+2021-12-30-ERROR-Data.main(Data.java:152)-[main] Data  - Table 'employee' already exists
+2021-12-30-INFO -Data.main(Data.java:76)-[main] Data  - Successfully downloaded the repository!
+2021-12-30-INFO -Data.main(Data.java:137)-[main] Data  - 20211203_DDL.sql Execution started.
+2021-12-30-INFO -Data.main(Data.java:145)-[main] Data  - 20211203_DDL.sql Successfully executed...
+2021-12-30-INFO -Data.main(Data.java:137)-[main] Data  - 20211203_DML.sql Execution started.
+2021-12-30-INFO -Data.main(Data.java:141)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (7, "Raj", "AJ");
+2021-12-30-INFO -Data.main(Data.java:141)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (8, "AJ", "JD");
+2021-12-30-INFO -Data.main(Data.java:141)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (9, "AJ", "JD");
+2021-12-30-INFO -Data.main(Data.java:141)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (10, "AJ", "JD");
+2021-12-30-INFO -Data.main(Data.java:145)-[main] Data  - 20211203_DML.sql Successfully executed...
+2021-12-30-INFO -Data.main(Data.java:137)-[main] Data  - 20211204_DDL.sql Execution started.
+2021-12-30-INFO -Data.main(Data.java:145)-[main] Data  - 20211204_DDL.sql Successfully executed...
+2021-12-30-INFO -Data.main(Data.java:137)-[main] Data  - 20211204_DML.sql Execution started.
+2021-12-30-INFO -Data.main(Data.java:141)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (11, "Raj", "AJ");
+2021-12-30-INFO -Data.main(Data.java:141)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (12, "AJ", "JD");
+2021-12-30-INFO -Data.main(Data.java:141)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (13, "AJ", "JD");
+2021-12-30-INFO -Data.main(Data.java:141)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (14, "AJ", "JD");
+2021-12-30-INFO -Data.main(Data.java:145)-[main] Data  - 20211204_DML.sql Successfully executed...

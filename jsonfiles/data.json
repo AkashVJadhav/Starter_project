@@ -1,0 +1,23 @@
+{
+	"repositoryLink": "https://github.com/AkashVJadhav/Project",
+	"branchName": "new",
+	"branchDirectory": "Scripts",
+	"directoryPath": "C:/Users/hp/Desktop/private/Db",
+	"databases": [
+		{
+			"name": "project",
+			"username": "root",
+			"password": "root"
+		},
+		{
+			"name": "project1",
+			"username": "root",
+			"password": "root"
+		},
+		{
+			"name": "project2",
+			"username": "root",
+			"password": "root"
+		}
+	]
+}
