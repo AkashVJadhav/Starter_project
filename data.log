@@ -22,3 +22,258 @@
 2021-12-30-INFO -Data.main(Data.java:141)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (13, "AJ", "JD");
 2021-12-30-INFO -Data.main(Data.java:141)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (14, "AJ", "JD");
 2021-12-30-INFO -Data.main(Data.java:145)-[main] Data  - 20211204_DML.sql Successfully executed...
+2022-01-03-INFO -Data.main(Data.java:77)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:77)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:77)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:77)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:77)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:77)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:77)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:78)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:79)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:79)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:79)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:79)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:79)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:79)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:79)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:79)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:79)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:79)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:79)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:79)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.main(Data.java:79)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Clone.cloneFolder(Clone.java:47)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Clone.cloneFolder(Clone.java:43)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:70)-[main] Data  - 20211203_DDL.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:78)-[main] Data  - 20211203_DDL.sql Successfully executed...
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:70)-[main] Data  - 20211203_DML.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:74)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (7, "Raj", "AJ");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:74)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (8, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:74)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (9, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:74)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (10, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:78)-[main] Data  - 20211203_DML.sql Successfully executed...
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:70)-[main] Data  - 20211204_DDL.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:78)-[main] Data  - 20211204_DDL.sql Successfully executed...
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:70)-[main] Data  - 20211204_DML.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:74)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (11, "Raj", "AJ");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:74)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (12, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:74)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (13, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:74)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (14, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:78)-[main] Data  - 20211204_DML.sql Successfully executed...
+2022-01-03-INFO -Clone.cloneFolder(Clone.java:43)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-ERROR-Clone.retriveScript(Clone.java:79)-[main] Data  - C:\Users\hp\Desktop\Scripts\20211202_DDL.sql
+2022-01-03-INFO -Clone.cloneFolder(Clone.java:43)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Clone.cloneFolder(Clone.java:44)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-ERROR-Clone.retriveScript(Clone.java:80)-[main] Data  - Cannot format given Object as a Date
+2022-01-03-INFO -Clone.cloneFolder(Clone.java:49)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-ERROR-UpdateDatabase.update(UpdateDatabase.java:87)-[main] Data  - Index 4 out of bounds for length 3
+2022-01-03-ERROR-Clone.cloneFolder(Clone.java:52)-[main] Data  - https://github.com/AkashVJadhav/Project: not authorized
+2022-01-03-INFO -Clone.cloneFolder(Clone.java:49)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:83)-[main] Data  - 20211203_DDL.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:91)-[main] Data  - 20211203_DDL.sql Successfully executed...
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:83)-[main] Data  - 20211203_DML.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:87)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (7, "Raj", "AJ");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:87)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (8, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:87)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (9, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:87)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (10, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:91)-[main] Data  - 20211203_DML.sql Successfully executed...
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:83)-[main] Data  - 20211204_DDL.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:91)-[main] Data  - 20211204_DDL.sql Successfully executed...
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:83)-[main] Data  - 20211204_DML.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:87)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (11, "Raj", "AJ");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:87)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (12, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:87)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (13, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:87)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (14, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:91)-[main] Data  - 20211204_DML.sql Successfully executed...
+2022-01-03-INFO -Clone.cloneFolder(Clone.java:49)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:82)-[main] Data  - 20211203_DDL.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:90)-[main] Data  - 20211203_DDL.sql Successfully executed...
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:82)-[main] Data  - 20211203_DML.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (7, "Raj", "AJ");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (8, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (9, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (10, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:90)-[main] Data  - 20211203_DML.sql Successfully executed...
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:82)-[main] Data  - 20211204_DDL.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:90)-[main] Data  - 20211204_DDL.sql Successfully executed...
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:82)-[main] Data  - 20211204_DML.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (11, "Raj", "AJ");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (12, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (13, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (14, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:90)-[main] Data  - 20211204_DML.sql Successfully executed...
+2022-01-03-INFO -Clone.cloneFolder(Clone.java:49)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-ERROR-Clone.retriveScript(Clone.java:84)-[main] Data  - C:\Users\hp\Desktop\Scripts\20211203_DDL.sql
+2022-01-03-INFO -Clone.cloneFolder(Clone.java:49)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-ERROR-Clone.retriveScript(Clone.java:85)-[main] Data  - C:\Users\hp\Desktop\private\Db\Scripts\20211202_DDL.sql -> C:\Users\hp\Desktop\Scripts\20211202_DDL.sql
+2022-01-03-INFO -Clone.cloneFolder(Clone.java:49)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Clone.cloneFolder(Clone.java:49)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-ERROR-Clone.retriveScript(Clone.java:91)-[main] Data  - C:\Users\hp\Desktop\private\Db\Scripts\20211202_DDL.sql -> C:\Users\hp\Desktop\Scripts\20211202_DDL.sql
+2022-01-03-INFO -Clone.cloneFolder(Clone.java:49)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:82)-[main] Data  - 20211203_DDL.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:90)-[main] Data  - 20211203_DDL.sql Successfully executed...
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:82)-[main] Data  - 20211203_DML.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (7, "Raj", "AJ");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (8, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (9, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (10, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:90)-[main] Data  - 20211203_DML.sql Successfully executed...
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:82)-[main] Data  - 20211204_DDL.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:90)-[main] Data  - 20211204_DDL.sql Successfully executed...
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:82)-[main] Data  - 20211204_DML.sql Execution started.
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (11, "Raj", "AJ");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (12, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (13, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:86)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (14, "AJ", "JD");
+2022-01-03-INFO -UpdateDatabase.update(UpdateDatabase.java:90)-[main] Data  - 20211204_DML.sql Successfully executed...
+2022-01-03-INFO -Clone.cloneFolder(Clone.java:49)-[main] Data  - Successfully downloaded the repository!
+2022-01-03-INFO -Data.deleteDirectory(Data.java:38)-[main] Data  - Folder is not exist
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:54)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:54)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:54)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:54)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:54)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-ERROR-Clone.cloneFolder(Clone.java:57)-[main] Data  - https://github.com/AkashVJadhav/Project: not authorized
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:54)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:54)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:54)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:85)-[main] Data  - 20211201_DDL.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - Create table employee (Id int, FirstName varchar(50), LastName Varchar(50));
+2022-01-04-ERROR-DatabaseOperation.update(DatabaseOperation.java:96)-[main] Data  - Table 'employee' already exists
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - Create table Schema_version (DB_END_TSKEY int);
+2022-01-04-ERROR-DatabaseOperation.update(DatabaseOperation.java:96)-[main] Data  - Table 'schema_version' already exists
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:100)-[main] Data  - 20211201_DDL.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:85)-[main] Data  - 20211201_DML.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (1, "Akash", "Jadhav");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (2, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (3, "RJ", "J");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO Schema_version (DB_END_TSKEY) VALUES (20211201);
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:100)-[main] Data  - 20211201_DML.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:85)-[main] Data  - 20211202_DDL.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:100)-[main] Data  - 20211202_DDL.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:85)-[main] Data  - 20211202_DML.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (4, "Raj", "AJ");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (5, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (6, "RJ", "J");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO Schema_version (DB_END_TSKEY) VALUES (20211202);
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:100)-[main] Data  - 20211202_DML.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:85)-[main] Data  - 20211203_DDL.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:100)-[main] Data  - 20211203_DDL.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:85)-[main] Data  - 20211203_DML.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (7, "Raj", "AJ");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (8, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (9, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (10, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:100)-[main] Data  - 20211203_DML.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:85)-[main] Data  - 20211204_DDL.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:100)-[main] Data  - 20211204_DDL.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:85)-[main] Data  - 20211204_DML.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (11, "Raj", "AJ");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (12, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (13, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (14, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:100)-[main] Data  - 20211204_DML.sql Successfully executed...
+2022-01-04-INFO -Data.deleteDirectory(Data.java:27)-[main] Data  - Folder is not exist
+2022-01-04-ERROR-Clone.cloneFolder(Clone.java:56)-[main] Data  - Access is denied
+2022-01-04-INFO -Data.deleteDirectory(Data.java:27)-[main] Data  - Folder is not exist
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:53)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -Data.deleteDirectory(Data.java:27)-[main] Data  - Folder is not exist
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:53)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -Data.deleteDirectory(Data.java:28)-[main] Data  - Folder is not exist
+2022-01-04-INFO -Data.deleteDirectory(Data.java:28)-[main] Data  - Folder is not exist
+2022-01-04-INFO -Data.deleteDirectory(Data.java:28)-[main] Data  - Folder is not exist
+2022-01-04-INFO -Data.deleteDirectory(Data.java:30)-[main] Data  - Folder is not exist
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:53)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -Data.deleteDirectory(Data.java:30)-[main] Data  - Folder is not exist
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:53)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:53)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -Data.deleteDirectory(Data.java:36)-[main] Data  - Folder is not exist
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:52)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:55)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:85)-[main] Data  - 20211203_DDL.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:100)-[main] Data  - 20211203_DDL.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:85)-[main] Data  - 20211203_DML.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (7, "Raj", "AJ");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (8, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (9, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (10, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:100)-[main] Data  - 20211203_DML.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:85)-[main] Data  - 20211204_DDL.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:100)-[main] Data  - 20211204_DDL.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:85)-[main] Data  - 20211204_DML.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (11, "Raj", "AJ");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (12, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (13, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:91)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (14, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:100)-[main] Data  - 20211204_DML.sql Successfully executed...
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:55)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:55)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -Clone.cloneFolder(Clone.java:55)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:55)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:55)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-ERROR-FetchScript.retriveScript(FetchScript.java:109)-[main] Data  - Cannot read the array length because "listofFiles" is null
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:51)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-WARN -FetchScript.retriveScript(FetchScript.java:104)-[main] Data  - C:/Users/hp/Desktop/private/DbScripts empty folder
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:51)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:51)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:51)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-ERROR-FetchScript.cloneFolder(FetchScript.java:58)-[main] Data  - Destination path "Db" already exists and is not an empty directory
+2022-01-04-ERROR-FetchScript.cloneFolder(FetchScript.java:58)-[main] Data  - Destination path "Db" already exists and is not an empty directory
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:51)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-ERROR-FetchScript.cloneFolder(FetchScript.java:58)-[main] Data  - Destination path "Db" already exists and is not an empty directory
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:51)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-ERROR-FetchScript.cloneFolder(FetchScript.java:58)-[main] Data  - Destination path "Db" already exists and is not an empty directory
+2022-01-04-INFO -Data.deleteDirectory(Data.java:36)-[main] Data  - Folder is not exist
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:51)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:51)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:95)-[main] Data  - 20211201_DDL.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - Create table employee (Id int, FirstName varchar(50), LastName Varchar(50));
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - Create table Schema_version (DB_END_TSKEY int);
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:109)-[main] Data  - 20211201_DDL.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:95)-[main] Data  - 20211201_DML.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (1, "Akash", "Jadhav");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (2, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (3, "RJ", "J");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO Schema_version (DB_END_TSKEY) VALUES (20211201);
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:109)-[main] Data  - 20211201_DML.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:95)-[main] Data  - 20211202_DDL.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:109)-[main] Data  - 20211202_DDL.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:95)-[main] Data  - 20211202_DML.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (4, "Raj", "AJ");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (5, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (6, "RJ", "J");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO Schema_version (DB_END_TSKEY) VALUES (20211202);
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:109)-[main] Data  - 20211202_DML.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:95)-[main] Data  - 20211203_DDL.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:109)-[main] Data  - 20211203_DDL.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:95)-[main] Data  - 20211203_DML.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (7, "Raj", "AJ");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (8, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (9, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (10, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:109)-[main] Data  - 20211203_DML.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:95)-[main] Data  - 20211204_DDL.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:109)-[main] Data  - 20211204_DDL.sql Successfully executed...
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:95)-[main] Data  - 20211204_DML.sql Execution started.
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (11, "Raj", "AJ");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (12, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (13, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:101)-[main] Data  - INSERT INTO employee (ID, FirstName, LastName) VALUES (14, "AJ", "JD");
+2022-01-04-INFO -DatabaseOperation.update(DatabaseOperation.java:109)-[main] Data  - 20211204_DML.sql Successfully executed...
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:51)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:51)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:51)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:51)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:56)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:56)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-ERROR-FetchScript.retriveScript(FetchScript.java:116)-[main] Data  - Cannot read the array length because the return value of "java.io.File.listFiles()" is null
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:56)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-ERROR-FetchScript.retriveScript(FetchScript.java:116)-[main] Data  - Cannot read the array length because the return value of "java.io.File.listFiles()" is null
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:56)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-ERROR-FetchScript.retriveScript(FetchScript.java:117)-[main] Data  - Cannot read the array length because the return value of "java.io.File.listFiles()" is null
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:56)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-ERROR-FetchScript.retriveScript(FetchScript.java:117)-[main] Data  - Cannot read the array length because the return value of "java.io.File.listFiles()" is null
+2022-01-04-INFO -Data.deleteDirectory(Data.java:32)-[main] Data  - Folder is not exist
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:56)-[main] Data  - Successfully downloaded the repository!
+2022-01-04-INFO -FetchScript.cloneFolder(FetchScript.java:56)-[main] Data  - Successfully downloaded the repository!

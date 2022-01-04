@@ -3,6 +3,7 @@
 	"branchName": "new",
 	"branchDirectory": "Scripts",
 	"directoryPath": "C:/Users/hp/Desktop/private/Db",
+	"storagePath": "C:/Users/hp/Desktop/Scripts.txt",
 	"databases": [
 		{
 			"name": "project",
